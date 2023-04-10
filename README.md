@@ -2,6 +2,8 @@
 
 ## About
 
+This software allows to read and write firmware in some models of Rockstar Portable MP4 Players devices.  
+
 The `uniflash.py` file is the main script to use. The `unicmd.py` file is the library created for easier command interface encapsulation. The `stoned.py` file is the library (as well as a standalone tool) to handle stone image unpacking.  
 
 For further dumped firmware unpacking, I recommend [bzpwork](https://github.com/ilyazx/bzpwork) by ilyazx.  
